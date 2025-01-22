@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+title: >-
+  Online Appendix to Learning Prosumer Behavior for Grid Service Provision in Energy
+Communities: Integrating Online Learning and Bilevel Programming
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Bennevis
+    family-names: Crowley
+    email: bewcro@dtu.dk
+    affiliation: Technical University of Denmark
+    orcid: 'https://orcid.org/0000-0002-9080-3151'
+repository-code: >-
+  https://github.com/bewcro/learning-prosumer-behavior
+version: '1.0'
+date-released: '2025-01-22'
